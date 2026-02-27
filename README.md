@@ -1,7 +1,6 @@
 # Credit Card Churn Prediction using Artificial Neural Networks
 
 ## Project Overview
-
 This project implements a production-style Artificial Neural Network (ANN) pipeline to predict customer churn in a banking environment.
 
 Customer churn prediction is a high-impact business problem. Retaining existing customers is significantly more cost-effective than acquiring new ones. This model helps identify customers who are likely to leave, enabling proactive retention strategies.
@@ -11,7 +10,6 @@ Final Model Test Accuracy: 84%
 ---
 
 ## Business Problem
-
 Banks collect extensive customer data including demographics, account activity, and financial behavior. The objective is to predict:
 
 Will a customer churn (1) or stay (0)?
